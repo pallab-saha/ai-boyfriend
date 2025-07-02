@@ -588,7 +588,7 @@ function FinalPallabChat() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: `text-sm ${isDarkMode ? 'text-gray-400' : 'text-rose-600/70'}`,
-                                                    children: "Puripurak founder • Tomar priyotomo ✨"
+                                                    children: "Your lifeline ✨"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/chat/page.jsx",
                                                     lineNumber: 407,
@@ -728,7 +728,7 @@ function FinalPallabChat() {
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "jsx-8acd18d6d010af34" + " " + `text-lg ${isDarkMode ? 'text-gray-400' : 'text-rose-600/80'}`,
-                                                children: "Tomake khub miss korchi... university kemon jacche? 💭✨"
+                                                children: "Tomake khub miss korchi...🥺"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/chat/page.jsx",
                                                 lineNumber: 475,
@@ -909,7 +909,7 @@ function FinalPallabChat() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         className: "jsx-8acd18d6d010af34" + " " + `text-sm ${isDarkMode ? 'text-gray-300' : 'text-rose-600'}`,
-                                                        children: "Tomar reply er wait e achi... 💭"
+                                                        children: "Tomay wait korate valoi lageee...🥰"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/chat/page.jsx",
                                                         lineNumber: 580,
@@ -1005,7 +1005,7 @@ function FinalPallabChat() {
                                                 value: inputText,
                                                 onChange: (e)=>setInputText(e.target.value),
                                                 onKeyPress: handleKeyPress,
-                                                placeholder: "Bolona jaan, ki mone ache... 💕",
+                                                placeholder: "tomar moner kotha likho 💕",
                                                 className: `w-full rounded-2xl px-5 py-4 pr-12 resize-none focus:outline-none focus:ring-2 transition-all ${isDarkMode ? 'bg-slate-600 border border-slate-500 text-gray-200 placeholder-gray-400 focus:border-teal-400 focus:ring-teal-400/20' : 'bg-white/80 backdrop-blur-lg border border-pink-200/50 text-rose-900 placeholder-rose-400/60 focus:border-rose-400 focus:ring-rose-400/20 shadow-inner'}`,
                                                 rows: "3",
                                                 disabled: isLoading

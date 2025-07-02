@@ -407,7 +407,7 @@ export default function FinalPallabChat() {
                 <p className={`text-sm ${
                   isDarkMode ? 'text-gray-400' : 'text-rose-600/70'
                 }`}>
-                  Puripurak founder • Tomar priyotomo ✨
+                  Your lifeline ✨
                 </p>
               </div>
             </div>
@@ -475,7 +475,7 @@ export default function FinalPallabChat() {
                 <p className={`text-lg ${
                   isDarkMode ? 'text-gray-400' : 'text-rose-600/80'
                 }`}>
-                  Tomake khub miss korchi... university kemon jacche? 💭✨
+                  Tomake khub miss korchi...🥺
                 </p>
               </div>
             )}
@@ -580,7 +580,7 @@ export default function FinalPallabChat() {
                     <span className={`text-sm ${
                       isDarkMode ? 'text-gray-300' : 'text-rose-600'
                     }`}>
-                      Tomar reply er wait e achi... 💭
+                      Tomay wait korate valoi lageee...🥰
                     </span>
                   </div>
                 </div>
@@ -628,7 +628,7 @@ export default function FinalPallabChat() {
                   value={inputText}
                   onChange={(e) => setInputText(e.target.value)}
                   onKeyPress={handleKeyPress}
-                  placeholder="Bolona jaan, ki mone ache... 💕"
+                  placeholder="tomar moner kotha likho 💕"
                   className={`w-full rounded-2xl px-5 py-4 pr-12 resize-none focus:outline-none focus:ring-2 transition-all ${
                     isDarkMode 
                       ? 'bg-slate-600 border border-slate-500 text-gray-200 placeholder-gray-400 focus:border-teal-400 focus:ring-teal-400/20'
